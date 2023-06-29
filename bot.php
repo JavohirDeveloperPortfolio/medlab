@@ -10,7 +10,7 @@ require_once 'Texts.php';
 require_once 'Service.php';
 
 $bot_token =
-    '6034564501:AAF9dWufD89Re5RtCsodEJD2dGk_NFbF0lk';
+    'token';
     
 $rootPath = "https://med-lab.uz/medlab";
 
